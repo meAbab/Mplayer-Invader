@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fireweb
 
 One of my long time client, often taking different solution if many different projects and paying me with very good money,
@@ -31,3 +32,13 @@ REQUIREMENT
           user-foo        ALL= NOPASSWD: /sbin/iptables
 
 5. And follow all other settings that need to run a perl script, i.e. let file executable, giving right owner/group(ship) etc.
+=======
+# Mplayer-Invader
+I need to work in a project for my Advance JavaScript course to build a multiplayer online game.
+The game is based on Phaser engine and extension of Phaser Invader example. I also added WebRTC so player can make audio
+conference among them (also has option that player can allow or deny somebody's conference request).
+
+Here are the scattered files of that project, I'm searching the final presentaion one. Once found will update here.
+
+It need node.js, Phaser.io, socket.io and a webRTC engine to run the whole game.
+>>>>>>> a0af156f626e57e6f69b0fcd6aaa4c89574346f3
