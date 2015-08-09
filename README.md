@@ -4,3 +4,5 @@ The game is based on Phaser engine and extension of Phaser Invader example. I al
 conference among them (also has option that player can allow or deny somebody's conference request).
 
 Here are the scattered files of that project, I'm searching the final presentaion one. Once found will update here.
+
+It need node.js, Phaser.io, socket.io and a webRTC engine to run the whole game.
