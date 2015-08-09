@@ -1,0 +1,29 @@
+<html xmlns="http://www.w3.org/1999/html">
+   <head> 
+         <script src="phaser.js"> </script>
+         <!--<script src="invaders.js"> </script>-->
+		 <script>
+			document.create.Element('footer');
+		 </script>
+         <script src="big_invader.js"> </script>
+		 <script src="RTCMultiConnection.js"></script>
+	</head>
+    <body>
+	  <footer>
+		 <section class="experiment">
+            <section>
+                <input type="text" id="conference-name">
+                <button id="setup-new-conference" class="setup">Start Conference</button>
+            </section>
+
+            <!-- list of all rooms -->
+            <table style="width: 100%;" id="rooms-list"></table>
+
+            <!-- local/remote audio player -->
+            <div id="audios-container"></div>
+		</section>
+		<script src="game_audio.js"></script>
+	  </footer>
+	  
+	</body>
+</html>
